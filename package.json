@@ -4,7 +4,8 @@
   "description": "API developed in Backend classes of Rocketseat Explorer program",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/server.js"
   },
   "author": "Giovany Lawall Inocêncio",
   "license": "ISC",
